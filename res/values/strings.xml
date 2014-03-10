@@ -12,5 +12,10 @@
     <string name="location">&quot;Location:&quot;</string>
     <string name="save">&quot;Save&quot;</string>
     <string name="name">&quot;Name:&quot;</string>
+    <string name="title_activity_play_game">PlayGame</string>
+    <string name="enter_move">&quot;Enter Move&quot;</string>
+    <string name="end_game">&quot;End Game&quot;</string>
+    <string name="white_to_play">&quot;White to play...&quot;</string>
+    <string name="black_to_play">&quot;Black to play…&quot;</string>
 
 </resources>

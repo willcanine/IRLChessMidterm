@@ -11,6 +11,7 @@ import android.widget.Button;
 public class MainActivity extends Activity implements OnClickListener {
 
     Button startButton;
+    
     Intent toStartGameActivity;
 	
 	@Override

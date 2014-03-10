@@ -26,6 +26,10 @@
             android:name="com.willcanine.midtermirlchessstart.StartGame"
             android:label="@string/title_activity_start_game" >
         </activity>
+        <activity
+            android:name="com.willcanine.midtermirlchessstart.PlayGame"
+            android:label="@string/title_activity_play_game" >
+        </activity>
     </application>
 
 </manifest>
