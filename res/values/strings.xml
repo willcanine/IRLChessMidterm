@@ -17,5 +17,7 @@
     <string name="end_game">&quot;End Game&quot;</string>
     <string name="white_to_play">&quot;White to play...&quot;</string>
     <string name="black_to_play">&quot;Black to play…&quot;</string>
+    <string name="white_wins">&quot;White Wins!&quot;</string>
+    <string name="black_wins">&quot;Black Wins!&quot;</string>
 
 </resources>
